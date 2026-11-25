@@ -1,4 +1,4 @@
-# Portugal
+# Portugol
 inclua biblioteca Matematica
 
   funcao inicio() {
